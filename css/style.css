@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex-grow: 1;
+}
+
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
